@@ -7,7 +7,7 @@
   <name>practise</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
-    <finalname>devops</finalname>
+    <finalname>zahid</finalname>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
